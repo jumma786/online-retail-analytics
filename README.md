@@ -94,17 +94,20 @@ A 3-page interactive dashboard:
 **Page 1 — Executive Summary**
 KPI cards, monthly revenue trend, top 10 countries, top 10 products.
 
-![Page 1](dashboard/screenshots/page1_executive.png)
+<img width="1189" height="671" alt="Screenshot 2026-05-22 161942" src="https://github.com/user-attachments/assets/0aee5c56-03ac-4ca0-abff-675177d57a2e" />
+
 
 **Page 2 — Customer Insights (RFM)**
 RFM segment breakdown, top customers, segment × country heatmap, At-Risk recovery focus.
 
-![Page 2](dashboard/screenshots/page2_customers.png)
+<img width="1181" height="659" alt="Screenshot 2026-05-22 162003" src="https://github.com/user-attachments/assets/9f4be39d-8966-40c5-8d30-f80f386cbf3f" />
+
 
 **Page 3 — Product Performance**
 Top products, hour-of-day distribution, day-of-week patterns, average price.
 
-![Page 3](dashboard/screenshots/page3_products.png)
+<img width="1166" height="658" alt="Screenshot 2026-05-22 162021" src="https://github.com/user-attachments/assets/3e128533-7753-48bb-9bc1-3b577f856d9c" />
+
 
 ## 🔍 Key SQL Techniques Demonstrated
 
