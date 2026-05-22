@@ -2,7 +2,7 @@
 
 > A complete data analytics project analysing **1M+ UK retail transactions** (2009–2011) using Python, SQL Server, and Power BI.
 
-![Dashboard Preview](dashboard/screenshots/page1_executive.png)
+
 
 ---
 
