@@ -1,0 +1,101 @@
+Customer ID,country,frequency,monetary,recency_days,churn_probability,will_buy_probability,actual_outcome,risk_tier,risk_reasons
+12346,United Kingdom,3,77352.96,265,0.92936337,0.07063664,Did Not Buy,Critical Risk,Long inactivity (>6 months) | Low order count | VIP account - escalate
+16754,United Kingdom,29,65500.07,311,0.9170823,0.08291771,Did Not Buy,Critical Risk,Long inactivity (>6 months) | VIP account - escalate
+13093,United Kingdom,55,54144.25,215,0.90375614,0.09624386,Did Not Buy,Critical Risk,Long inactivity (>6 months) | Active buyer who stopped | VIP account - escalate
+17850,United Kingdom,155,51208.87,311,0.9371197,0.0628803,Did Not Buy,Critical Risk,Long inactivity (>6 months) | Active buyer who stopped | VIP account - escalate
+15749,United Kingdom,3,44534.3,174,0.95976335,0.040236637,Did Not Buy,Critical Risk,Moderate inactivity (3-6 months) | Low order count | Major account
+15098,United Kingdom,3,39916.5,121,0.90169483,0.09830517,Did Not Buy,Critical Risk,Moderate inactivity (3-6 months) | Low order count | Major account
+13902,Denmark,5,34023.26,571,0.9592128,0.040787198,Did Not Buy,Critical Risk,Long inactivity (>6 months) | Major account
+18251,United Kingdom,9,26278.86,26,0.79840314,0.20159687,Did Not Buy,Critical Risk,Major account
+13802,United Kingdom,19,26259.11,78,0.8232916,0.17670842,Did Not Buy,Critical Risk,Major account
+12939,United Kingdom,20,25264.8,3,0.8515664,0.14843363,Did Not Buy,Critical Risk,Major account
+12482,Sweden,27,21941.72,515,0.9847859,0.015214083,Did Not Buy,Critical Risk,Long inactivity (>6 months) | Major account
+18008,United Kingdom,23,19759.079999999998,9,0.8690685,0.13093153,Did Not Buy,Critical Risk,Major account
+15523,United Kingdom,16,17259.19,23,0.80804837,0.19195166,Did Not Buy,Critical Risk,Major account
+13027,United Kingdom,19,17239.2,53,0.73494136,0.2650586,Did Not Buy,High Risk,Major account
+15808,United Kingdom,21,17180.25,245,0.8840273,0.115972705,Did Not Buy,Critical Risk,Long inactivity (>6 months) | Major account
+16553,United Kingdom,33,16584.01,102,0.5969387,0.40306127,Did Not Buy,High Risk,Moderate inactivity (3-6 months) | Active buyer who stopped | Major account
+16180,United Kingdom,13,16249.87,39,0.61360073,0.3863993,Did Not Buy,High Risk,Major account
+12980,United Kingdom,21,16245.78,97,0.7561953,0.24380471,Did Not Buy,Critical Risk,Moderate inactivity (3-6 months) | Major account
+13564,United Kingdom,36,15880.22,293,0.9208909,0.0791091,Did Not Buy,Critical Risk,Long inactivity (>6 months) | Active buyer who stopped | Major account
+15768,United Kingdom,34,15308.89,55,0.7698643,0.2301357,Did Not Buy,Critical Risk,Major account
+17448,United Kingdom,41,14448.67,468,0.979234,0.02076601,Did Not Buy,Critical Risk,Long inactivity (>6 months) | Active buyer who stopped | Major account
+13225,United Kingdom,14,14095.79,82,0.63026094,0.36973906,Bought,High Risk,Major account
+12435,Denmark,6,13925.93,19,0.8420785,0.1579215,Did Not Buy,Critical Risk,Major account
+18087,United Kingdom,16,13908.72,230,0.92035484,0.079645135,Did Not Buy,Critical Risk,Long inactivity (>6 months) | Major account
+13952,United Kingdom,14,12823.52,157,0.7684977,0.2315023,Did Not Buy,Critical Risk,Moderate inactivity (3-6 months) | Major account
+13687,United Kingdom,1,11880.84,377,0.95136833,0.04863168,Did Not Buy,Critical Risk,Long inactivity (>6 months) | Low order count | Major account
+14016,EIRE,11,11303.41,101,0.6574938,0.34250614,Did Not Buy,High Risk,Moderate inactivity (3-6 months) | Major account
+15874,United Kingdom,21,11284.76,3,0.85352486,0.14647515,Did Not Buy,Critical Risk,Major account
+14134,United Kingdom,15,11123.35,322,0.75757056,0.24242945,Did Not Buy,Critical Risk,Long inactivity (>6 months) | Major account
+15032,United Kingdom,8,11010.05,195,0.7739309,0.22606908,Did Not Buy,Critical Risk,Long inactivity (>6 months) | Major account
+14045,United Kingdom,16,10986.63,48,0.9203261,0.07967387,Did Not Buy,Critical Risk,Major account
+18052,United Kingdom,1,10877.18,504,0.91502774,0.08497223,Did Not Buy,Critical Risk,Long inactivity (>6 months) | Low order count | Major account
+14028,United Kingdom,3,10396.5,489,0.91049635,0.089503616,Did Not Buy,Critical Risk,Long inactivity (>6 months) | Low order count | Major account
+16182,United Kingdom,9,9971.65,11,0.8449086,0.1550914,Did Not Buy,Critical Risk,Standard risk profile
+14101,United Kingdom,13,9961.93,13,0.81529796,0.18470204,Did Not Buy,Critical Risk,Standard risk profile
+18260,United Kingdom,23,9947.26,112,0.72152996,0.27847,Did Not Buy,High Risk,Moderate inactivity (3-6 months)
+12758,Portugal,7,9903.24,56,0.9371313,0.06286874,Did Not Buy,Critical Risk,Standard risk profile
+14828,United Kingdom,13,9839.460000000001,136,0.87981945,0.12018055,Did Not Buy,Critical Risk,Moderate inactivity (3-6 months)
+14091,United Kingdom,2,9530.08,593,0.9112028,0.08879722,Did Not Buy,Critical Risk,Long inactivity (>6 months) | Low order count
+17504,United Kingdom,18,9490.17,145,0.79442805,0.20557193,Did Not Buy,Critical Risk,Moderate inactivity (3-6 months)
+14063,United Kingdom,7,9471.5,626,0.9780063,0.021993712,Did Not Buy,Critical Risk,Long inactivity (>6 months)
+14439,Greece,5,9443.04,259,0.86564535,0.13435467,Did Not Buy,Critical Risk,Long inactivity (>6 months)
+17230,United Kingdom,18,9388.49,203,0.8606501,0.1393499,Did Not Buy,Critical Risk,Long inactivity (>6 months)
+12590,Germany,1,9341.26,150,0.8762926,0.12370739,Did Not Buy,Critical Risk,Moderate inactivity (3-6 months) | Low order count
+13162,United Kingdom,16,9275.49,61,0.7752875,0.2247125,Did Not Buy,Critical Risk,Standard risk profile
+16709,United Kingdom,14,9056.01,24,0.55832624,0.44167376,Did Not Buy,High Risk,Standard risk profile
+15939,United Kingdom,15,9004.84,29,0.74237764,0.2576224,Did Not Buy,High Risk,Standard risk profile
+13555,United Kingdom,13,8891.84,13,0.5469724,0.4530276,Did Not Buy,High Risk,Standard risk profile
+15260,United Kingdom,25,8767.73,39,0.5766581,0.4233419,Did Not Buy,High Risk,Standard risk profile
+16131,United Kingdom,10,8729.38,55,0.52201915,0.47798085,Bought,High Risk,Standard risk profile
+14160,United Kingdom,7,8421.47,549,0.9508511,0.049148936,Did Not Buy,Critical Risk,Long inactivity (>6 months)
+13206,United Kingdom,13,8308.19,339,0.8643833,0.1356167,Did Not Buy,Critical Risk,Long inactivity (>6 months)
+13715,United Kingdom,17,8153.04,220,0.8498349,0.15016508,Did Not Buy,Critical Risk,Long inactivity (>6 months)
+12637,France,12,8085.8099999999995,6,0.6430759,0.35692412,Did Not Buy,High Risk,Standard risk profile
+16556,United Kingdom,17,8012.58,6,0.64534324,0.35465676,Did Not Buy,High Risk,Standard risk profile
+17085,United Kingdom,28,7839.27,62,0.82844657,0.17155345,Did Not Buy,Critical Risk,Standard risk profile
+12643,France,11,7803.82,67,0.81797403,0.18202598,Did Not Buy,Critical Risk,Standard risk profile
+17409,United Kingdom,10,7793.51,124,0.5108905,0.4891095,Did Not Buy,High Risk,Moderate inactivity (3-6 months)
+13373,United Kingdom,6,7587.1900000000005,0,0.85378295,0.14621705,Did Not Buy,Critical Risk,Standard risk profile
+13082,United Kingdom,21,7335.75,65,0.81373733,0.18626267,Did Not Buy,Critical Risk,Standard risk profile
+16253,United Kingdom,7,7222.2,6,0.83952796,0.16047202,Did Not Buy,Critical Risk,Standard risk profile
+13552,United Kingdom,22,6948.92,5,0.55820644,0.44179356,Did Not Buy,High Risk,Standard risk profile
+18231,United Kingdom,28,6848.27,131,0.6994641,0.30053592,Did Not Buy,High Risk,Moderate inactivity (3-6 months)
+15413,United Kingdom,5,6798.72,631,0.97066575,0.029334266,Did Not Buy,Critical Risk,Long inactivity (>6 months)
+15321,United Kingdom,12,6709.7300000000005,10,0.81856084,0.18143918,Did Not Buy,Critical Risk,Standard risk profile
+14145,United Kingdom,6,6709.05,96,0.6853833,0.31461665,Bought,High Risk,Moderate inactivity (3-6 months)
+14844,United Kingdom,10,6702.43,3,0.7022153,0.2977847,Did Not Buy,High Risk,Standard risk profile
+13734,United Kingdom,4,6695.6900000000005,448,0.9911884,0.0088116005,Did Not Buy,Critical Risk,Long inactivity (>6 months)
+15674,United Kingdom,12,6613.52,12,0.7244853,0.27551472,Did Not Buy,High Risk,Standard risk profile
+15980,United Kingdom,7,6543.68,28,0.75240904,0.24759094,Did Not Buy,Critical Risk,Standard risk profile
+16532,United Kingdom,4,6524.639999999999,75,0.6561327,0.34386733,Bought,High Risk,Standard risk profile
+14855,United Kingdom,7,6520.3,58,0.60665584,0.39334413,Did Not Buy,High Risk,Standard risk profile
+12823,United Kingdom,18,6501.5,14,0.79906386,0.20093612,Did Not Buy,Critical Risk,Standard risk profile
+13317,United Kingdom,19,6486.09,5,0.6451087,0.3548913,Did Not Buy,High Risk,Standard risk profile
+12843,United Kingdom,28,6461.87,5,0.7427528,0.25724724,Did Not Buy,High Risk,Standard risk profile
+14154,United Kingdom,8,6460.7,178,0.84146714,0.15853283,Did Not Buy,Critical Risk,Moderate inactivity (3-6 months)
+18094,United Kingdom,13,6391.52,21,0.69819754,0.30180246,Did Not Buy,High Risk,Standard risk profile
+13615,United Kingdom,8,6272.53,258,0.68596685,0.31403318,Did Not Buy,High Risk,Long inactivity (>6 months)
+15369,United Kingdom,11,6251.26,431,0.97976476,0.020235237,Did Not Buy,Critical Risk,Long inactivity (>6 months)
+16735,United Kingdom,14,6217.41,18,0.6901368,0.30986324,Did Not Buy,High Risk,Standard risk profile
+13334,United Kingdom,5,6201.8,21,0.6134068,0.38659325,Did Not Buy,High Risk,Standard risk profile
+17873,United Kingdom,18,6135.95,19,0.60395074,0.39604926,Did Not Buy,High Risk,Standard risk profile
+13935,United Kingdom,3,6116.92,536,0.97200924,0.02799074,Did Not Buy,Critical Risk,Long inactivity (>6 months) | Low order count
+17819,United Kingdom,12,6021.05,11,0.84312993,0.15687005,Did Not Buy,Critical Risk,Standard risk profile
+15372,United Kingdom,8,6017.06,76,0.7383635,0.26163647,Did Not Buy,High Risk,Standard risk profile
+12835,United Kingdom,41,5996.83,367,0.981363,0.018637013,Did Not Buy,Critical Risk,Long inactivity (>6 months) | Active buyer who stopped
+12497,Germany,3,5996.5,21,0.93160576,0.06839422,Did Not Buy,Critical Risk,Low order count
+14105,United Kingdom,5,5988.83,178,0.88977647,0.11022355,Did Not Buy,Critical Risk,Moderate inactivity (3-6 months)
+17457,United Kingdom,14,5984.8099999999995,66,0.69583386,0.30416614,Did Not Buy,High Risk,Standard risk profile
+14257,United Kingdom,9,5954.45,3,0.89111274,0.10888725,Did Not Buy,Critical Risk,Standard risk profile
+17146,United Kingdom,13,5852.64,45,0.55684924,0.44315076,Did Not Buy,High Risk,Standard risk profile
+13771,United Kingdom,9,5728.82,3,0.8766362,0.1233638,Did Not Buy,Critical Risk,Standard risk profile
+12455,Cyprus,9,5722.95,12,0.7748196,0.22518042,Did Not Buy,Critical Risk,Standard risk profile
+13901,United Kingdom,15,5676.34,11,0.7516857,0.24831432,Did Not Buy,Critical Risk,Standard risk profile
+14175,United Kingdom,7,5662.57,110,0.5973841,0.40261588,Bought,High Risk,Moderate inactivity (3-6 months)
+16320,Unspecified,6,5628.99,111,0.6461016,0.3538984,Did Not Buy,High Risk,Moderate inactivity (3-6 months)
+13883,United Kingdom,13,5603.67,158,0.7526075,0.24739248,Bought,Critical Risk,Moderate inactivity (3-6 months)
+15228,United Kingdom,6,5580.2699999999995,5,0.7623954,0.23760459,Did Not Buy,Critical Risk,Standard risk profile
+15299,United Kingdom,9,5556.53,6,0.82332164,0.17667837,Did Not Buy,Critical Risk,Standard risk profile
+12378,Switzerland,2,5416.32,69,0.9023268,0.09767318,Did Not Buy,Critical Risk,Low order count
